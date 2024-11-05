@@ -1,4 +1,7 @@
-## Hi there 👋
+## i'm Egide Ngiyimbere
+I'm currently working on some projects using the programm languages
+I'm currently learning html, css, scss
+
 
 <!--
 **eg-max/eg-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
